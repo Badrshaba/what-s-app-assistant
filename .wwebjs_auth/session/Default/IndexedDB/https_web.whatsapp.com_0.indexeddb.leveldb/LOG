@@ -1,0 +1,18 @@
+2023/12/05-22:07:31.101 bbc Reusing MANIFEST D:\Programming\3. Back end\what's app\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/05-22:07:31.101 bbc Recovering log #135
+2023/12/05-22:07:31.242 bbc Reusing old log D:\Programming\3. Back end\what's app\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000135.log 
+2023/12/05-22:07:50.412 1108 Compacting 1@1 + 1@2 files
+2023/12/05-22:07:50.462 1108 Generated table #139@1: 23396 keys, 996319 bytes
+2023/12/05-22:07:50.462 1108 Compacted 1@1 + 1@2 files => 996319 bytes
+2023/12/05-22:07:50.464 1108 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/05-22:07:50.906 12a4 Level-0 table #141: started
+2023/12/05-22:07:50.941 12a4 Level-0 table #141: 1251463 bytes OK
+2023/12/05-22:07:50.942 12a4 Delete type=2 #88
+2023/12/05-22:07:50.942 12a4 Delete type=0 #135
+2023/12/05-22:07:50.942 12a4 Delete type=2 #137
+2023/12/05-22:07:50.958 12a4 Compacting 1@1 + 1@2 files
+2023/12/05-22:07:51.039 12a4 Generated table #142@1: 30303 keys, 1269793 bytes
+2023/12/05-22:07:51.039 12a4 Compacted 1@1 + 1@2 files => 1269793 bytes
+2023/12/05-22:07:51.040 12a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/05-22:07:51.041 12a4 Delete type=2 #139
+2023/12/05-22:07:51.041 12a4 Delete type=2 #141
